@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/birds
 ## Files
 
 - `birds_mix.mp3` — the mix, unmastered: what the master was made from.
-- `birds.mp3` — the master, as the site plays it.
+- `за_обложкой - Птицы.mp3` — the master, as the site plays it.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
